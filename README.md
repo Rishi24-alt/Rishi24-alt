@@ -8,7 +8,7 @@
 
 ### about
 
-building things at the edge of hardware and software · currently deep in CAD tooling and AI pipelines · from basement :)
+prefi mech. engineering student. building things at the edge of hardware and software · currently deep in CAD tooling and AI pipelines · from basement :)
 
 ---
 
