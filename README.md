@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rishi24-alt&style=flat-square&color=586069&label=visitor+count)
+<img src="https://count.getloli.com/get/@Rishi24-alt?theme=booru-r6gdrawfriends" />
 
 </div>
 
@@ -35,4 +35,4 @@ Python · Streamlit · Flask · C# · SolidWorks API · Google Gemini · OpenAI 
 
 ### find me
 
-[x](https://x.com/Rishii24) · [draftai.cloud](https://draftai.cloud)
+[X](https://x.com/Rishii24) · [draftai.cloud](https://draftai.cloud)
