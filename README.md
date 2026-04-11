@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://count.getloli.com/get/@Rishi24-alt?theme=booru-r6gdrawfriends" />
 
